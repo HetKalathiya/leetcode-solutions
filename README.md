@@ -7,6 +7,7 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
