@@ -15,4 +15,12 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
