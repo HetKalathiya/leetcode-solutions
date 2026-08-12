@@ -11,4 +11,8 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
