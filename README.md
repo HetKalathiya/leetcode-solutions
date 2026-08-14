@@ -11,6 +11,7 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 | [0035-search-insert-position](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ My LeetCode solutions and problem-solving practice in JavaScript, Python, and ot
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/HetKalathiya/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
